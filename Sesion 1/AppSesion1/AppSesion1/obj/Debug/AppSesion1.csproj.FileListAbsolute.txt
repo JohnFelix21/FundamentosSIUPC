@@ -1,1 +1,2 @@
 D:\REPOSITORIA LOCAL\Sesion 1\AppSesion1\AppSesion1\bin\Debug\AppSesion1.exe.config
+D:\REPOSITORIA LOCAL\FundamentosSIUPC\Sesion 1\AppSesion1\AppSesion1\bin\Debug\AppSesion1.exe.config
